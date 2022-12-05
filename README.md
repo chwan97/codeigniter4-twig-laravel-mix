@@ -1,3 +1,10 @@
+## 安装
+```shell
+yarn
+composer install
+composer update
+```
+ 
  ## 启动 
  
  ```shell

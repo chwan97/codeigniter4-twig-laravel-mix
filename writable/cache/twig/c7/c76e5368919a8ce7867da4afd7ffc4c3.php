@@ -49,13 +49,13 @@ class __TwigTemplate_9d85fd85eecda39ea6c3d9ce2fe40830 extends Template
     <body>
         <p>下方为 react 渲染部分</p>
         <div id=\"errors\" style=\"
-              background: #c00;
-              color: #fff;
-              display: none;
-              margin: -20px -20px 20px;
-              padding: 20px;
-              white-space: pre-wrap;
-            \"></div>
+            background: #c00;
+            color: #fff;
+            display: none;
+            margin: -20px -20px 20px;
+            padding: 20px;
+            white-space: pre-wrap;
+             \"></div>
         <div id=\"root\"></div>
         <script>
             window.addEventListener('mousedown', function (e) {
@@ -86,7 +86,7 @@ class __TwigTemplate_9d85fd85eecda39ea6c3d9ce2fe40830 extends Template
                 }
             })(console.error);
         </script>
-    <script type=\"text/javascript\" src=\"";
+        <script type=\"text/javascript\" src=\"";
         // line 50
         echo twig_escape_filter($this->env, $this->env->getFunction('mix')->getCallable()("/js/page1.js"), "html", null, true);
         echo "\"></script>
